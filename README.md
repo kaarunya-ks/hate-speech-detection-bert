@@ -83,3 +83,11 @@ To build an automated, scalable hate speech detection model that classifies twee
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+
+ ## Technologies Used
+- Python  
+- BERT (Transformers by HuggingFace)  
+- PyTorch  
+- Pandas, NumPy, Seaborn, Matplotlib  
+- Google Colab  
